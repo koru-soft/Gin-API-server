@@ -1,0 +1,11 @@
+{
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "gopls": {
+     "formatting.gofumpt": true
+   },
+  "[go]": {
+    "editor.defaultFormatter": "golang.go",
+    "editor.formatOnSave": true
+  },
+  "editor.codeActionsOnSave": {}
+}
